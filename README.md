@@ -1,11 +1,15 @@
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Karam ibrahim Abdallah</h1>
-<h3 align="center">Student at ITI, Alex.</h3>
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Karam ibrahim</h1>
+<h3 align="center">Native Mobile Application Developer.</h3>
+
 
 <br>
 
-<p align="right"> <h3>Profile Views :-</h3> <img src="https://komarev.com/ghpvc/?username=KaramZero&label=Profile%20views&color=0e75b6&style=flat"
-    alt="KaramZero" /> 
-  </p>
+
+## ❤ Views and Followers
+<a href="https://github.com/KaramZero/github-profile-views-counter">
+    <img src="https://komarev.com/ghpvc/?username=KaramZero"> </a>
+<a href="https://github.com/KaramZero?tab=followers"><img src="https://img.shields.io/github/followers/KaramZero?label=Followers&style=social" alt="GitHub Badge"></a>
+<br><br>
 
 <br>
 
@@ -17,6 +21,15 @@
 - 📫 How to reach me **KaramZeroo@gmail.com**
 
 - ⚡ Fun fact :- Food and Music🎵 are the reasons to live.
+
+- 📫	Education: 
+    - 9-months Diploma, Information Technology Institute ITI, 
+      Ministry of Communications Information Technology MCIT  
+Native Mobile Application Development 
+    - Bachelor’s Degree in Computers and Information (Computer science)
+Faculty Of Computers and Information, Benha University. (2014-2018)
+
+
 
 <br>
 
@@ -38,7 +51,7 @@
 </p>
 <br>
 <h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img
+<p align="center"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg"
       alt="android" width="40" height="40" /> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg"
@@ -86,19 +99,16 @@
 <br>
 
 <h3>Statistical Data :-</h3>
-<p><img align="right"
-    src="https://github-readme-stats.vercel.app/api/top-langs?username=KaramZero&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&layout=compact"
-    alt="adam-pw" 
+
+<p align="center"><img align="center"
+    src="https://github-readme-stats.vercel.app/api/top-langs?username=KaramZero&show_icons=false&locale=en&bg_color=0d1117&text_color=ffffff&layout=compact"
+    alt="KaramZero" 
     bg_color=#808080/></p>
 
 <br>
-
-<img src="https://github-readme-stats.vercel.app/api?username=KaramZero&show_icons=true&theme=midnight-purple" align="right">
-
-## ❤ Views and Followers
-<a href="https://github.com/KaramZero/github-profile-views-counter">
-    <img src="https://komarev.com/ghpvc/?username=KaramZero"> </a>
-<a href="https://github.com/KaramZero?tab=followers"><img src="https://img.shields.io/github/followers/KaramZero?label=Followers&style=social" alt="GitHub Badge"></a>
-<br><br>
-<p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=KaramZero&theme=dark&background=0d1117&date_format=M%20j%5B%2C%20Y%5D" alt="KaramZero" /></p>
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=KaramZero&show_icons=true&theme=midnight-purple" align="center">
+</p>
+<br>
+<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=KaramZero&theme=dark&background=0d1117&date_format=M%20j%5B%2C%20Y%5D" alt="KaramZero" /></p>
       
