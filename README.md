@@ -5,6 +5,8 @@
 <br>
 
 
+<p><img align="right" src="https://github.com/KaramZero/KaramZero/blob/main/animation_500_kxa883sd.gif" alt="adam-pw" /></p>
+
 ## ❤ Views and Followers
 <a href="https://github.com/KaramZero/github-profile-views-counter">
     <img src="https://komarev.com/ghpvc/?username=KaramZero"> </a>
@@ -13,7 +15,6 @@
 
 <br>
 
-<p><img align="right" src="https://github.com/KaramZero/KaramZero/blob/main/animation_500_kxa883sd.gif" alt="adam-pw" /></p>
 
 
 - 🌱 I’m currently learning  Mobile Development (Android and IOS).
