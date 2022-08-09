@@ -19,8 +19,7 @@
 
 - 🌱 I’m currently learning  Mobile Development (Android and IOS).
 
-- 📫 How to reach me **KaramZeroo@gmail.com**
--                     **karamibrahim002@gmail.com**
+- 📫 How to reach me **KaramIbrahim002@gmail.com** 
 
 - ⚡ Fun fact :- Food and Music🎵 are the reasons to live.
 
