@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Karam Ibrahim</h1>
-<h3 align="center">Native Mobile Application Developer.</h3>
+<h3 align="center">Native Mobile Applications Developer.</h3>
 
 
 <br>
@@ -26,7 +26,7 @@
 - 📫	Education: 
     - 9-months Diploma, Information Technology Institute ITI, 
       Ministry of Communications Information Technology MCIT  
-Native Mobile Application Development 
+Native Mobile Applications Development 
     - Bachelor’s Degree in Computers and Information (Computer science)
 Faculty Of Computers and Information, Benha University. (2014-2018)
 
