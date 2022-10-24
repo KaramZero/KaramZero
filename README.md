@@ -17,7 +17,7 @@
 
 
 
-- 🌱 I’m currently learning  Mobile Development (Android and IOS).
+- 🌱 I’m currently working as an android developer at CodeIn.
 
 - 📫 How to reach me **KaramIbrahim002@gmail.com** 
 
