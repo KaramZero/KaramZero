@@ -17,7 +17,7 @@
 
 
 
-- 🌱 I’m currently working as an android developer at CodeIn.
+- 🌱 I’m currently working as an android developer at Etisalat e&.
 
 - 📫 How to reach me **KaramIbrahim002@gmail.com** 
 
